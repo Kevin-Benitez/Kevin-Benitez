@@ -57,15 +57,3 @@
 </div>
 
 ###
-
-<h2 align="left">Certificados</h2>
-
-###
-
-<img align="left" height="250" src="https://image2url.com/r2/default/images/1775667348725-ec3f1a3e-b497-489c-bbfb-4f057f66c537.jpeg"  />
-
-###
-
-<img align="right" height="250" src="https://image2url.com/r2/default/images/1775667458457-b1b92b4a-8a2f-4117-8d1b-a0c69658c5aa.jpeg"  />
-
-###
